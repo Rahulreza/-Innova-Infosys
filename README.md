@@ -1,16 +1,11 @@
-# flutter_ui_design_task
+## flutter_ui_design_task
 
-A new Flutter project.
+## USED
+🎯widgets 🎯SingleChildScrollView 🎯SafeArea 🎯Scaffold 🎯initState 🎯dispose 🎯SharedPreferences 🎯TextField 🎯TextEditingController 🎯url_launcher 🎯Column  🎯CircleAvatar 🎯Future
 
-## Getting Started
+## UI Design
+![Innova Infosys Task](https://user-images.githubusercontent.com/48874418/226176130-c42b4e25-6f47-48eb-ab33-aad5c8858079.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## UI Video
